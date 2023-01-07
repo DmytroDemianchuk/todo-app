@@ -1,8 +1,6 @@
 // sobirae vsi service vmeste
 package service
 
-import "github.com/dmytrodemianchuk/todo-app/pkg/repository"
-
 type Authorization interface {
 }
 
